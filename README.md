@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Amy 👋
+Software Engineer Intern @ Red Hat and Computer Science student at the University of Toronto.
 <!--
 **amygaoo/amygaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
