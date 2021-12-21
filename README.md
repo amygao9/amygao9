@@ -1,5 +1,10 @@
-### Hi there, I'm Amy 👋
-Software Engineer Intern @ Red Hat and Computer Science student at the University of Toronto.
+### Hey there, I'm Amy 👋
+Software Engineer Intern and Computer Science student at the University of Toronto.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msmagnanijr)](https://github.com/amygaoo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agao/)](https://www.linkedin.com/in/agao/)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msmagnanijr@gmail.com)](mailto:msmagnanijr@gmail.com) -->
+
 <!--
 **amygaoo/amygaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
