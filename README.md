@@ -1,9 +1,17 @@
-### Hey there, I'm Amy 👋
-Software Engineer Intern and Computer Science student at the University of Toronto.
+## Hey there, I'm Amy 👋
+🎓 Computer Science Undergrad @ University of Toronto 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msmagnanijr)](https://github.com/amygaoo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agao/)](https://www.linkedin.com/in/agao/)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msmagnanijr@gmail.com)](mailto:msmagnanijr@gmail.com) -->
+👩🏻‍💻 Software Enginer Intern 
+
+📫 Reach me at amygao9@outlook.com or on LinkedIn
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-agao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agao/)](https://www.linkedin.com/in/agao/)
+[![GitHub amygaoo](https://img.shields.io/github/followers/amygaoo?label=follow&style=social)](https://github.com/amygaoo)
+
+
+[![Amy's Github Stats](https://github-readme-stats.vercel.app/api?username=amygaoo&show_icons=true&count_private=true&hide=issues)](https://github.com/amygaoo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amygaoo&hide=TeX&layout=compact)
 
 <!--
 **amygaoo/amygaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
