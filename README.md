@@ -1,7 +1,5 @@
 ## Hey there, I'm Amy 👋
-🎓 Computer Science Undergrad @ University of Toronto 
-
-👩🏻‍💻 Currently a Software Enginer Intern @cockroachlabs
+🎓 Computer Science @ University of Toronto 
 
 📫 Reach me at amygao9@outlook.com or on LinkedIn
 
@@ -9,13 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-agao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agao/)](https://www.linkedin.com/in/agao/)
 [![GitHub amygao9](https://img.shields.io/github/followers/amygao9?label=follow&style=social)](https://github.com/amygao9)
 
-<details>
-<summary>View Github Stats</summary>
-<br>
-  
-[![Amy's Github Stats](https://github-readme-stats.vercel.app/api?username=amygao9&show_icons=true&count_private=true&hide=issues)](https://github.com/amygao9/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amygao9&hide=TeX&layout=compact)
-</details>
+
 
 
 <!--
